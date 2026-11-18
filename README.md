@@ -37,4 +37,4 @@ Check the SHA-256 listed in each release before installing.
 Support: studyforgex@gmail.com
 
 ## Feedback
-Open an Issue here, or comment on the Reddit post.
+comment 
